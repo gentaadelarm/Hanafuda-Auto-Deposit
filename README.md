@@ -105,7 +105,7 @@ git clone https://github.com/gentaadelarm/Hanafuda-Auto-Deposit.git
 
 ### Step 2: Navigate to the Project Directory
 ```
-cd Hanafuda-Bot
+cd Hanafuda-Auto-Deposit
 ```
 
 
@@ -154,4 +154,4 @@ All wallets processed.
 - **Connection issues:** Verify that the RPC URL is reachable and valid.
 
 ## Author
-Bot created by: bang alex founder https://t.me/airdropwithmeh
+Bot created by: https://x.com/Gentaadelarm
