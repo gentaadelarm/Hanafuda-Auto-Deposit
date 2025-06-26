@@ -32,8 +32,8 @@ Join Our Channel for more Airdrop At: https://t.me/airdropseeker_official
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/LinuxDil/Hanafuda-Bot.git
-    cd Hanafuda-Bot
+    git clone https://github.com/gentaadelarm/Hanafuda-Auto-Deposit.git
+    cd Hanafuda-Auto-Deposit
     ```
 
 2. Install required dependencies:
@@ -100,7 +100,7 @@ This project is an automated Ethereum transaction bot to perform multiple deposi
 ### Step 1: Clone the Repository
 Open your terminal and run the following command to clone this repository:
 ```
-git clone https://github.com/LinuxDil/Hanafuda-Bot.git
+git clone https://github.com/gentaadelarm/Hanafuda-Auto-Deposit.git
 ```
 
 ### Step 2: Navigate to the Project Directory
